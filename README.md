@@ -84,7 +84,7 @@ python -m streamlit run app.py
    * Match score 
    * Matched skills 
    * Missing skills 
-   * Suggestions 💡
+   * Suggestions 
 
 ---
 
